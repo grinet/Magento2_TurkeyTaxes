@@ -1,0 +1,20 @@
+{
+    "name": "grinet/turkeytaxes",
+    "description": "Adds local tax rules of Turkey to Magento2 website / Magento2 sitenize T\u00fcrkiye Vergilerini ekler",
+    "authors": [
+        {
+            "email": "info@grinet.com.tr",
+            "name": "Grinet"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Grinet\\TurkeyTaxes\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

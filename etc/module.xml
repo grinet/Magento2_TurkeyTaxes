@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   GriNet
+ * @package    Grinet_VergiBilgisi
+ * @copyright  Copyright (c) 2010 GriNet Internet ve Yazilim Hizmetleri // http://www.grinet.com.tr
+ * @developer  Hidayet Ok - hidonet@gmail.com - hidayet@grinet.com.tr
+ * @license    Freeware
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Module/etc/module.xsd">
+    <module name="Grinet_TurkeyTaxes" setup_version="1.0.0"></module>
+</config>
