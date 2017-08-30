@@ -56,4 +56,6 @@ Please send errors to info@grinet.com.tr ...
 
 ------------------------------------------------------------------
 # Ekran Görüntüleri / Screenshots
-<img src="http://grinet.com.tr/images/magento2_taxes/admin_taxes.png">
+<img src="http://grinet.com.tr/images/magento2_taxes/shot_prod.png">
+<img src="http://grinet.com.tr/images/magento2_taxes/shot_conf1.png">
+<img src="http://grinet.com.tr/images/magento2_taxes/shot_conf2.png">
