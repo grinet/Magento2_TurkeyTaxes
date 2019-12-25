@@ -15,7 +15,7 @@ php bin/magento cache:clean
 
 # Composer ile kurulum
 ```bash
-composer require grinet/Grinet_TurkeyTaxes
+composer require grinet/turkeytaxes
 php bin/magento module:enable Grinet_TurkeyTaxes
 php bin/magento setup:upgrade
 php bin/magento cache:clean
@@ -44,7 +44,7 @@ php bin/magento cache:clean
 
 # Installation with composer
 ```bash
-composer require grinet/Grinet_TurkeyTaxes
+composer require grinet/turkeytaxes
 php bin/magento module:enable Grinet_TurkeyTaxes
 php bin/magento setup:upgrade
 php bin/magento cache:clean
