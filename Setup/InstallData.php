@@ -50,8 +50,8 @@ class InstallData implements InstallDataInterface
          */
 		
 		$tax_arr = [
-						'18'	=> 'KDV %18',
-						'8'		=> 'KDV %8',
+						'20'	=> 'KDV %20',
+						'10'	=> 'KDV %10',
 						'1'		=> 'KDV %1',
 						'0'		=> 'KDV %0',
 						];
