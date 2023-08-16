@@ -57,6 +57,5 @@ Please send errors to info@grinet.com.tr ...
 ------------------------------------------------------------------
 # Ekran Görüntüleri / Screenshots
 
-![Shot 1](https://grinet.com.tr/images/magento2_taxes/shot_prod.png)
-![Config 1]((https://grinet.com.tr/images/magento2_taxes/shot_conf1.png)
-![Config 2](https://grinet.com.tr/images/magento2_taxes/shot_conf2.png)
+![F87213410BB5B64B5031979805631C33](https://github.com/RockChinQ/RockChinQ/assets/45992437/341b9aaf-35be-46de-97c1-52f78bbf8c87)
+![0E762F2F9ABE5D884AC320DD23888C46](https://github.com/RockChinQ/RockChinQ/assets/45992437/88cbdeb1-586a-4c9f-b7fb-19a3a47907a2)
