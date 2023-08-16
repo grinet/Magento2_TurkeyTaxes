@@ -57,4 +57,4 @@ Please send errors to info@grinet.com.tr ...
 ------------------------------------------------------------------
 # Ekran Görüntüleri / Screenshots
 
-![[F87213410BB5B64B5031979805631C33]()](https://grinet.com.tr/images/magento2_taxes/shot_prod.png)
+<img src="https://magesanalpos.com/media/logo/stores/1/logo-1_300px.png">
