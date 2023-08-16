@@ -57,7 +57,8 @@ Please send errors to info@grinet.com.tr ...
 ------------------------------------------------------------------
 # Ekran Görüntüleri / Screenshots
 
-<img src="https://grinet.com.tr/images/magento2_taxes/shot_prod.png"	alt="">
-<img src="https://grinet.com.tr/images/magento2_taxes/shot_conf1.png"	alt="">
-<img src="https://grinet.com.tr/images/magento2_taxes/shot_conf2.png"	alt="">
+<img src="https://grinet.com.tr/images/magento2_taxes/shot_prod.png?983729"	alt="">
+<img src="https://grinet.com.tr/images/magento2_taxes/shot_conf1.png?837298"	alt="">
+<img src="https://grinet.com.tr/images/magento2_taxes/shot_conf2.png?483729"	alt="">
+
 
