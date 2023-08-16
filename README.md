@@ -57,4 +57,7 @@ Please send errors to info@grinet.com.tr ...
 ------------------------------------------------------------------
 # Ekran Görüntüleri / Screenshots
 
-<img src="https://magesanalpos.com/media/catalog/product/cache/d851567572b68b33328effb7cfb36bfc/k/u/kutu_grinet_kargo_1.png">
+<img src="https://grinet.com.tr/images/magento2_taxes/shot_prod.png"	alt="">
+<img src="https://grinet.com.tr/images/magento2_taxes/shot_conf1.png"	alt="">
+<img src="https://grinet.com.tr/images/magento2_taxes/shot_conf2.png"	alt="">
+
