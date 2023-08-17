@@ -63,6 +63,7 @@ Please send errors to info@grinet.com.tr ...
 
 >
 # **Diğer Magento2 Modüllerimiz**
+<h2><a href="https://magesanalpos.com/grinet-iyzico-magento-icin-sanal-pos-modulu-magento2" target="_blank">Grinet Iyzico - Magento Sanal Pos Modülü</a></h2>
 
 ## [Grinet Iyzico - Magento Sanal Pos Modülü](https://magesanalpos.com/grinet-iyzico-magento-icin-sanal-pos-modulu-magento2){:target="_blank"}
 ## [Grinet Turkpay2 - Magento2 Banka Sanal Pos Modülü](https://magesanalpos.com/grinet-turkpay-magento-icin-sanal-pos-modulu-magento2){:target="_blank"}
